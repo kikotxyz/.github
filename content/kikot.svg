@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+    <path fill="none" stroke="currentColor" stroke-width="20" d="M280.4 414.1h43.1v43c0 .7-.5 1.2-1.2 1.2h-40.6c-.7 0-1.2-.5-1.2-1.2v-43zM176.2 414.1h43.5v43c0 .7-.5 1.2-1.2 1.2h-41.1c-.7 0-1.2-.5-1.2-1.2v-43z"/>
+    <g fill="none" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M355.5 414.1H143.3c-22.4 0-40.5-18.2-40.5-40.6V229c0-66 53.6-119.5 119.5-119.5h54.2c66 0 119.5 53.6 119.5 119.5v144.5c0 22.5-18.2 40.6-40.5 40.6zM102.8 363l293.2.1"/>
+    </g>
+    <path fill="none" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" d="m297.9 262.7-96.6-.5c-26.5-.1-47.8-21.6-47.7-48.1h0c.1-26.5 21.6-47.8 48.1-47.7l96.6.5c26.5.1 47.8 21.6 47.7 48.1h0c-.1 26.6-21.6 47.9-48.1 47.7z"/>
+    <g fill="none" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M229.2 45.6c0 11.2 9.3 20.7 20.6 20.8 11.2 0 20.7-9.3 20.8-20.6 0-11.2-9.3-20.7-20.6-20.8-11.2 0-20.8 9.4-20.8 20.6zM249.8 108.4l.2-42"/>
+    </g>
+    <circle fill="none" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" cx="212.3" cy="214.9" r="5.2"/>
+    <circle fill="none" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" cx="287.3" cy="214.9" r="5.2"/>
+    <circle fill="none" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" cx="285.4" cy="327.2" r="1.6"/>
+    <circle fill="none" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" cx="318.1" cy="327.2" r="1.6"/>
+    <circle fill="none" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" cx="350.8" cy="327.2" r="1.6"/>
+</svg>
